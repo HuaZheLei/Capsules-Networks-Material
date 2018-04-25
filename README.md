@@ -13,16 +13,27 @@ material about capsules networks
 
 ## Paper
 [Dynamic Routing Between Capsules] [[Paper]](https://arxiv.org/abs/1710.09829)
+
 [MATRIX CAPSULES WITH EM ROUTING] [[Paper]](https://openreview.net/pdf?id=HJWLfGWRb)
+
 [Capsule Network Performance on Complex Data] [[Paper]](https://arxiv.org/abs/1712.03480)
+
 [Accurate reconstruction of image stimuli from human fMRI based on the decoding model with capsule network architecture] [[Paper]](https://arxiv.org/abs/1801.00602)
+
 [Non-Parametric Transformation Networks] [[Paper]](https://arxiv.org/abs/1801.04520)
+
 [Deep Reinforcement Learning using Capsules in Advanced Game Environments] [[Paper]](https://arxiv.org/abs/1801.09597)
+
 [CapsuleGAN: Generative Adversarial Capsule Network] [[Paper]](https://arxiv.org/abs/1802.06167)
+
 [Comparing Generative Adversarial Network Techniques for Image Creation and Modification] [[Paper]](https://arxiv.org/abs/1803.09093)
+
 [Investigating Capsule Networks with Dynamic Routing for Text Classification] [[Paper]](https://arxiv.org/abs/1804.00538)
+
 [Capsules for Object Segmentation] [[Paper]](https://arxiv.org/abs/1804.04241)
+
 [A Capsule Network-based Embedding Model for Search Personalization] [[Paper]](https://arxiv.org/abs/1804.04266)
+
 [Sparse Unsupervised Capsules Generalize Better] [[Paper]](https://arxiv.org/abs/1804.06094)
 
 ## Blogs
