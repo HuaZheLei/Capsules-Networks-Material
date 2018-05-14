@@ -43,4 +43,5 @@ material about capsule networks
 | **Christoph Malsburg** |  [Capsules and dynamic routing ](https://medium.com/@christophmalsburg/capsules-and-dynamic-routing-are-a-step-in-the-right-direction-finally-addressing-the-binding-d269b62de567)  |
 | **Max Pechyonkin** |  [Understanding Hinton’s Capsule Networks.](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)  |
 | **jhui** |  [Understanding Matrix capsules with EM Routing.](https://jhui.github.io/2017/11/14/Matrix-Capsules-with-EM-routing-Capsule-Network)  |
+| **jhui** |  [Understanding Dynamic Routing between Capsules.](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/)  |
 | **Adrian Colyer** |  [Matrix capsules with EM routing.](https://blog.acolyer.org/2017/11/14/matrix-capsules-with-em-routing)  |
